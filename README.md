@@ -32,4 +32,4 @@ CSS design of game goal is to be on Monday.
 
 
 ## Credits 
-Sole credits will be mine, Eli Anchicanoy, based on my inderstanding of the coding languages, thus far. Few resources will be used for slight guidance while code will most importantly be written by me. 
+Sole credits will be based on my understanding of the coding languages, thus far. Few resources will be used for slight guidance while code will most importantly be written by me. 
